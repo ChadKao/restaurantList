@@ -2,7 +2,7 @@
 
 This is a web application built by using Node.js and Express. It allows users to explore and search for restaurants. With a user-friendly interface, you can easily browse through a variety of restaurants, discovering their offerings and details. Whether you're looking for a specific cuisine or just want to explore new dining options, this app has you covered.
 
-![This is a demo.](https://im5.ezgif.com/tmp/ezgif-5-c767659e6d.gif)
+![This is a demo.](https://i.imgur.com/nwILqkL.gif)
 
 ## Features
 - Browse Restaurants
